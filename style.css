@@ -93,6 +93,8 @@ header {
   background-color: rgba(0,0,0, .8);
   position: absolute;
   top: 0;
+  right: 0;
+  bottom: 0;
   display: none;
   left: 0;
 }
@@ -775,7 +777,12 @@ header {
     font-size: 2.4rem;
     padding: 1rem;
   }
-
+  .modal__content {
+    width: 60%;
+    height: 45%;
+    margin: auto;
+    margin-top: 20%;
+  }
   .about__heading__wrapper {
     padding: 2.4rem;
   }
