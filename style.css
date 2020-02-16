@@ -824,6 +824,11 @@ header {
   padding: .2rem;
   margin-bottom: .4rem;
 }
+  .subscribe {
+  width: 100%;
+  height: auto;
+  padding-bottom: 1rem;
+}
 #footer {
   height: auto;
 }
